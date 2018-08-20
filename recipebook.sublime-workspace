@@ -1,0 +1,639 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"paddi",
+				"padding-right\tproperty"
+			],
+			[
+				"cta",
+				"cta-button"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"card",
+				"card-text"
+			],
+			[
+				"ta",
+				"table-cell\tdisplay"
+			],
+			[
+				"project",
+				"project-list"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"fi",
+				"figure\tTag"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"la",
+				"lastName"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"backgroun",
+				"background-position"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"text-tr",
+				"text-transform"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"recipe",
+				"recipe-book"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Yulduz/Documents/My Web Sites/portfolio/style.css",
+			"settings":
+			{
+				"buffer_size": 19866,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Yulduz/Documents/My Web Sites/yulduzsciarrillo/index.html",
+			"settings":
+			{
+				"buffer_size": 3909,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Yulduz/Documents/My Web Sites/yulduzsciarrillo/static/css/app.css",
+			"settings":
+			{
+				"buffer_size": 17451,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Yulduz/Documents/My Web Sites/yulduzsciarrillo/resume.html",
+			"settings":
+			{
+				"buffer_size": 3000,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Yulduz/Documents/My Web Sites/yulduzsciarrillo/startup-bg.html",
+			"settings":
+			{
+				"buffer_size": 4345,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Yulduz/Documents/My Web Sites/yulduzsciarrillo/project-list.html",
+			"settings":
+			{
+				"buffer_size": 6062,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Yulduz/Documents/My Web Sites/tryin.html",
+			"settings":
+			{
+				"buffer_size": 6680,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Yulduz/sites/recipebook"
+	],
+	"file_history":
+	[
+		"/C/Users/Yulduz/Documents/gallery.html",
+		"/C/Users/Yulduz/Downloads/09_Selector_Exercise_Starter/selectorsExercise.html",
+		"/C/Users/Yulduz/Documents/My Web Sites/yulduzsciarrillo/static/js/main.js",
+		"/C/Users/Yulduz/Downloads/project2webdev/project2/index.html",
+		"/C/Users/Yulduz/Documents/My Web Sites/yulduzsciarrillo/index.html",
+		"/C/Users/Yulduz/Documents/My Web Sites/yulduzsciarrillo/app.css",
+		"/C/Users/Yulduz/Downloads/dev-test/index.html",
+		"/C/Users/Yulduz/Downloads/bootstrap-4.1.3-dist/css/bootstrap.css",
+		"/C/Users/Yulduz/Documents/My Web Sites/portfolio/css/bootstrap.css",
+		"/C/Users/Yulduz/Downloads/dev-test/css/style.css",
+		"/C/Users/Yulduz/Documents/My Web Sites/portfolio/index.html",
+		"/C/Users/Yulduz/Documents/My Web Sites/portfolio/css/style.css",
+		"/C/Users/Yulduz/Documents/My Web Sites/portfolio/mouse.js",
+		"/C/Users/Yulduz/Documents/My Web Sites/portfolio/js/portfolio.js",
+		"/C/Users/Yulduz/Documents/My Web Sites/portfolio/js/wow.js",
+		"/C/Users/Yulduz/Documents/My Web Sites/portfolio/js/mouse.js",
+		"/C/Users/Yulduz/Documents/My Web Sites/portfolio/js/jquery.js",
+		"/C/Users/Yulduz/Documents/My Web Sites/portfolio/classie.js",
+		"/C/Users/Yulduz/Documents/My Web Sites/portfolio/js/cbpAnimatedHeader.js",
+		"/C/Users/Yulduz/Documents/My Web Sites/portfolio/js/bootstrap.min.css",
+		"/C/Users/Yulduz/Documents/My Web Sites/portfolio/font-awesome.min.css",
+		"/C/Users/Yulduz/Documents/My Web Sites/portfolio/js/main.js",
+		"/C/Users/Yulduz/Documents/My Web Sites/portfolio/project-list.html",
+		"/C/Users/Yulduz/Downloads/foundation-6.4.2-complete/css/foundation.css",
+		"/C/Users/Yulduz/Downloads/coolairweb/website/index.html",
+		"/C/Users/Yulduz/Documents/stalkerapp.html",
+		"/C/Users/Yulduz/Documents/stalker.js",
+		"/C/Users/Yulduz/Downloads/dev-test/yulduzmurtazakulova@gmail.com/index.html",
+		"/C/Users/Yulduz/Documents/dating.css",
+		"/C/Users/Yulduz/Documents/datingapp.html",
+		"/C/Users/Yulduz/Downloads/09_Selector_Exercise_Starter/selectors.css",
+		"/C/Users/Yulduz/Documents/startover.css",
+		"/C/Users/Yulduz/Documents/startover.html",
+		"/C/Users/Yulduz/sites/recipebook/.meteor/packages",
+		"/C/Users/Yulduz/sites/recipebook/styles.styl",
+		"/C/Users/Yulduz/sites/recipebook/client/recipes/Recipe.js",
+		"/C/Users/Yulduz/sites/recipebook/client/recipes/RecipeSingle.html",
+		"/C/Users/Yulduz/sites/recipebook/client/recipes/Recipes.js",
+		"/C/Users/Yulduz/sites/recipebook/collections/Recipes.js",
+		"/C/Users/Yulduz/sites/recipebook/client/recipes/Recipe.html",
+		"/C/Users/Yulduz/sites/recipebook/client/layouts/HomeLayout.html",
+		"/C/Users/Yulduz/sites/recipebook/.meteor/local/build/programs/server/shell-server.js",
+		"/C/Users/Yulduz/sites/recipebook/server/mailer.js",
+		"/C/Users/Yulduz/sites/recipebook/client/Menu.html",
+		"/C/Users/Yulduz/sites/recipebook/client/ShoppingList.js",
+		"/C/Users/Yulduz/sites/recipebook/client/ShoppingList.html",
+		"/C/Users/Yulduz/sites/recipebook/client/recipes/NewRecipe.js",
+		"/C/Users/Yulduz/sites/recipebook/client/recipes/NewRecipe.html",
+		"/C/Users/Yulduz/sites/recipebook/client/recipes/Recipes.html",
+		"/C/Users/Yulduz/sites/recipebook/client/recipes/RecipeSingle.js",
+		"/C/Users/Yulduz/sites/recipebook/client/Menu.js",
+		"/C/Users/Yulduz/sites/recipebook/lib/route.js",
+		"/C/Users/Yulduz/sites/recipebook/server/publish.js",
+		"/C/Users/Yulduz/sites/recipebook/client/layouts/MainLayout.html",
+		"/C/Users/Yulduz/sites/recipebook/client/partials/SideNav.html",
+		"/C/Users/Yulduz/sites/recipebook/client/partials/Header.html",
+		"/C/Users/Yulduz/sites/recipebook/client/layouts/SideNav.html",
+		"/C/Users/Yulduz/sites/recipebook/settings.json",
+		"/C/Users/Yulduz/sites/recipebook/server/init.js",
+		"/C/Users/Yulduz/sites/recipebook/index.html",
+		"/C/Users/Yulduz/sites/recipebook/recipebook.js",
+		"/C/Users/Yulduz/sites/recipebook/lib/routes.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\Yulduz\\sites\\recipebook"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cta",
+			"ul",
+			"font",
+			"list-item",
+			"transition",
+			"#f5c453",
+			"a",
+			"transition-link",
+			"hero",
+			"header",
+			"img",
+			"navbarSupported",
+			"col-lg-6",
+			"card",
+			"col-6",
+			"container",
+			".row",
+			"hero-unit-moon-exploration",
+			"hero",
+			"stolinski",
+			"stolinsky",
+			"inMenu"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Yulduz/Documents/My Web Sites/portfolio/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19866,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19041,
+								19041
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 15394.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Yulduz/Documents/My Web Sites/yulduzsciarrillo/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3909,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3563,
+								3563
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1376.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Yulduz/Documents/My Web Sites/yulduzsciarrillo/static/css/app.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17329,
+								17329
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Yulduz/Documents/My Web Sites/yulduzsciarrillo/resume.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3000,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								579,
+								579
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Yulduz/Documents/My Web Sites/yulduzsciarrillo/startup-bg.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3979,
+								3979
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1728.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/Yulduz/Documents/My Web Sites/yulduzsciarrillo/project-list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6062,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2062,
+								2062
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2153.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/Yulduz/Documents/My Web Sites/tryin.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6680,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6680,
+								6680
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3138.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "recipebook.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
